@@ -1,0 +1,18 @@
+{
+  "topic": "sd card error",
+  "tips": [
+    "Pro Tip: Always format the SD card in the dash cam, not on a computer.",
+    "Pro Tip: Use a high-endurance SD card rated for video surveillance.",
+    "Pro Tip: Replace SD cards every 6–12 months for optimal performance."
+  ],
+  "faq": [
+    {
+      "question": "Why does my dash cam keep saying 'SD card error'?",
+      "answer": "This usually indicates the card is corrupted or incompatible. Try reformatting or replacing it with a high-endurance model."
+    },
+    {
+      "question": "Can I use any SD card with my fleet dash cam?",
+      "answer": "Not all SD cards are rated for continuous write operations. Use ones recommended by the manufacturer."
+    }
+  ]
+}
